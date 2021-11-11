@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using System.Runtime.InteropServices.ComTypes;
 
-namespace WebCrawlerApp
+namespace Sampleresources
 {
     public class SiteCapture
     {
